@@ -1,0 +1,9 @@
+[submodule "ark/algebra"]
+	path = ark/algebra
+	url = git@github.com:nategraf/arkworks-algebra.git
+[submodule "ark/curves"]
+	path = ark/curves
+	url = git@github.com:nategraf/arkworks-curves.git
+[submodule "wasm"]
+	path = wasm
+	url = git@github.com:nategraf/wasm-zkp-challenge.git
