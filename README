@@ -1,0 +1,18 @@
+## build
+```
+git submodule update --init --recursive
+```
+
+## run
+### baseline performance
+```
+cd wasm
+cargo bench
+```
+
+### optimized performance
+Update `wasm/benches/bench_pippenger_msm.rs:21` from `compute_msm` to `compute_msm_opt`
+```
+cd wasm
+cargo bench
+```
