@@ -7,3 +7,6 @@
 [submodule "wasm"]
 	path = wasm
 	url = git@github.com:nategraf/wasm-zkp-challenge.git
+[submodule "prize-wasm-msm"]
+	path = prize-wasm-msm
+	url = git@github.com:z-prize/prize-wasm-msm.git
