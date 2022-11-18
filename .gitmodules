@@ -9,4 +9,4 @@
 	url = https://github.com/snarkify/wasm-zkp-challenge.git
 [submodule "prize-wasm-msm"]
 	path = official-test-harness
-	url = https://github.com/snarkify/prize-wasm-msm.git
+	url = https://github.com/snarkify/zprize-wasm-snarkify-submission.git
