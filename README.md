@@ -2,7 +2,7 @@
 
 This is the root repository for the Snarkify submission to the MSM on Wasm ZPrize.
 
-Note: This repository should be cloned with `git clone --recursive` or use `git update --init
+Note: This repository should be cloned with `git clone --recursive` or use `git submodule update --init
 --recursive` after the repository has been cloned, as the relevant code is contained in submodules
 of this repository.
 
